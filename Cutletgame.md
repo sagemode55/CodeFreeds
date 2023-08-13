@@ -1,10 +1,1 @@
-https://www.dotabuff.com/players/874369199/heroes
-https://www.dotabuff.com/players/187824320/matches?enhance=overview&page=270
-https://www.dotabuff.com/players/187824320?fbclid=IwAR1x7xAWutwMrlRJQS8LnFVrNiiRcCdJrvFhSTeYfxHuZ3IEKct3Z7Ga7ds
-https://www.dotabuff.com/players/187824320?fbclid=IwAR1x7xAWutwMrlRJQS8LnFVrNiiRcCdJrvFhSTeYfxHuZ3IEKct3Z7Ga7ds
-https://www.dotabuff.com/players/25907144/matches?enhance=overview&page=5
-https://www.dotabuff.com/players/245417576
-https://www.dotabuff.com/players/86745912/matches
-https://www.dotabuff.com/esports/players/153775602-123
-https://www.dotabuff.com/players/76374171
-https://www.dotabuff.com/esports/players/197639864-kepler
+
